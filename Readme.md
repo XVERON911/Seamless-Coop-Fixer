@@ -5,3 +5,5 @@ this fix also contains a memory injection trainer which is not recommended for u
 
 !!! I have no permissions from the owner of seamless coop to edit or reverse engineer his mods and this fix is only manipulating internal game files to run seamless coop mod without issues
 (it DO NOT cause any errors in the game as this fix reverses back everything upon game close) !!!
+
+![App Screenshot](image.png)
